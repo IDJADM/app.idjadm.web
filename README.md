@@ -3,3 +3,4 @@ apps.aple.idjadm/ilzadejesuscassiano.com/contribuite/
 app.idjadm.ilzadejesuscassiano.com
 com.ilzadejesuscassiano.app.idjadm
 www.ilzadejesuscassiano.com
+www.idjadm.com
